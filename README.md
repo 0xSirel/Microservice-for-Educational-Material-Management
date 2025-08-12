@@ -19,7 +19,6 @@ This university project is a Spring Boot microservice designed for managing educ
 - MariaDB
 - RabbitMQ
 - Swagger (for API documentation)
-- Markdown (for page content)
 
 ## API Endpoints (Examples)
 
